@@ -1,0 +1,27 @@
+.common-title-view {
+    width: 100%;
+}
+
+.common-title-l {
+    width: 50%;
+    display: inline-block;
+}
+
+.common-title-r {
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+}
+
+.common-list-item {
+    margin: 5px;
+    padding: 2px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+}
+
+.common-button-view {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
